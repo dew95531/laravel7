@@ -11,4 +11,4 @@ curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/bin 
 mkdir -p /var/www
 yum -y install git 
 yum -y install npm
-mv laravel /etc/nginx/conf.d/
+
